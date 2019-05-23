@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Palíndrome</string>
+    <string name="btnPalindrome">Palíndrome</string>
+    <string name="btnNumAmigos">Números Amigos</string>
+    <string name="btnVerifyPalindrome">Verificar</string>
+    <string name="labelPalResult" />
+</resources>
